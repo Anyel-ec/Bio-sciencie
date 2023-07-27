@@ -12,7 +12,7 @@ El presente proyecto tiene como propósito principal mejorar y optimizar el proc
 
 2. Traducción de Sitios Web: Incluye soporte para traducir la interfaz a diferentes idiomas, permitiendo a los usuarios acceder al sistema en su lengua nativa.
 
-3.. Diseño Responsivo: La aplicación web se adapta de manera óptima a diferentes dispositivos y tamaños de pantalla, brindando una experiencia de usuario consistente en computadoras de escritorio, tablets y dispositivos móviles.
+3. Diseño Responsivo: La aplicación web se adapta de manera óptima a diferentes dispositivos y tamaños de pantalla, brindando una experiencia de usuario consistente en computadoras de escritorio, tablets y dispositivos móviles.
 
 ## Tecnologías Utilizadas
 
@@ -30,6 +30,8 @@ El proyecto se ha desarrollado utilizando una variedad de tecnologías y framewo
    ```
    git clone https://github.com/Anyel-ec/ESPE-LAB-v2.git
    ```
+
+2. Asegúrate de estar en la rama "master" del repositorio.
 
 ## Contribuciones
 
