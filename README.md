@@ -37,6 +37,10 @@ El proyecto se ha desarrollado utilizando una variedad de tecnologías y framewo
 
 Si estás interesado en contribuir al proyecto, eres bienvenido(a) a realizar pull requests con tus mejoras, correcciones o nuevas características. ¡Juntos haremos que esta aplicación sea aún mejor!
 
+## Autores
+* Odalys Duque
+* Angel Patiño
+
 ## Notas Finales
 
 Este proyecto ha sido desarrollado con fines académicos y no tiene ninguna relación con la reproducción de animales o la inseminación artificial en la vida real. Es una simulación creada para fines educativos dentro del contexto del laboratorio de la Universidad de las Fuerzas Armadas ESPE.
