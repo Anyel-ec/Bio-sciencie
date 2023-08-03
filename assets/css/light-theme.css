@@ -872,9 +872,10 @@ section {
 # Events
 --------------------------------------------------------------*/
 .events {
-  background: url(../img/fondo1.png) center center no-repeat;
+  background: url() center center no-repeat;
   background-size: cover;
   position: relative;
+  background-color: #ffffff;
 }
 
 .events::before {
