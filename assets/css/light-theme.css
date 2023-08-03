@@ -556,7 +556,9 @@ h6 {
   }
 }
 
-
+.img-fluid{
+  max-width: 100%;
+}
 
 /*--------------------------------------------------------------
 # Why Us
@@ -690,6 +692,7 @@ h6 {
 
 .why-us2 .section-title2 h2 {
   color: #fff;
+  
 }
 
 .why-us2 .container {
@@ -872,10 +875,9 @@ section {
 # Events
 --------------------------------------------------------------*/
 .events {
-  background: url() center center no-repeat;
+  background: url(../img/fondo1.png) center center no-repeat;
   background-size: cover;
   position: relative;
-  background-color: #ffffff;
 }
 
 .events::before {
@@ -1055,6 +1057,36 @@ section {
 
 .doctors .member .social a+a {
   margin-left: 8px;
+}
+
+.doctors .section-title {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.doctors .section-title h2 {
+  font-size: 32px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  margin-top: 35px;
+}
+
+.doctors .section-title h2::after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 50px;
+  height: 3px;
+  background: #1bbd36;
+  bottom: 0;
+  left: calc(50% - 25px);
+}
+
+.doctors .section-title p {
+  margin-bottom: 0;
 }
 
 /*--------------------------------------------------------------
@@ -1461,9 +1493,9 @@ section {
 }
 
 .about .video-box {
-  background: url("../img/video.jpg") center center no-repeat;
+  /* background: url("../img/video.jpg") center center no-repeat; */
   background-size: cover;
-  min-height: 500px;
+  max-width: 100%;
 }
 
 .about .play-btn {

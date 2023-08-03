@@ -463,7 +463,7 @@ h1, .mb-3{
   #hero {
     width: 100%;
     height: 100vh;
-    background: url("../img/Fondo_Ovocitos.png") top center;
+    background: url("../img/Fondo_Ovocitos_Obscuro.png") top center;
     background-size: cover;
     margin-bottom: 0px;
   }
@@ -1455,7 +1455,7 @@ section {
 }
 
 .about .video-box {
-  background: url("../img/video.jpg") center center no-repeat;
+  /* background: url("../img/video.jpg") center center no-repeat; */
   background-size: cover;
   min-height: 500px;
 }
@@ -1730,7 +1730,7 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #111;
+  color: white;
 }
 
 .skills .progress .skill .val {
