@@ -875,7 +875,11 @@ section {
 # Events
 --------------------------------------------------------------*/
 .events {
+<<<<<<< HEAD
   background: url(../img/fondo-espermatozoides.jpg) center center no-repeat;
+=======
+  background: url(../img/fondo1.png) center center no-repeat;
+>>>>>>> 98c5bb79faaf7f56b8fbff4ed0e4b6440776a7b6
   background-size: cover;
   position: relative;
 }
