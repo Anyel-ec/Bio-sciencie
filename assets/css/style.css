@@ -1617,7 +1617,7 @@ section {
 }
 
 .specials {
-  background: url(../img/video.jpg) center center no-repeat;
+  background: url(assets/img/video.jpg) center center no-repeat;
   background-size: cover;
   position: relative;
 }
