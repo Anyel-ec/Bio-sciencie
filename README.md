@@ -48,3 +48,7 @@ Si estás interesado en contribuir al proyecto, eres bienvenido(a) a realizar pu
 Este proyecto ha sido desarrollado con fines académicos y no tiene ninguna relación con la reproducción de animales o la inseminación artificial en la vida real. Es una simulación creada para fines educativos dentro del contexto del laboratorio de la Universidad de las Fuerzas Armadas ESPE.
 
 ¡Gracias por visitar nuestro repositorio y esperamos que encuentres útil esta aplicación para el control y monitoreo de inseminación artificial en ganado bovino! Si tienes alguna pregunta o sugerencia, no dudes en contactarnos.
+
+# Bio-sciencie
+This project is a complete website designed for a cutting-edge biotechnology laboratory. Our goal is to provide an informative, friendly and accessible platform for our visitors.
+
