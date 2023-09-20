@@ -40,7 +40,7 @@ Si estás interesado en contribuir al proyecto, eres bienvenido(a) a realizar pu
 ## Autores
 
 * Angel Patiño appatino@espe.edu.ec / @Anyel-ec
-* Jhon Zambrano jhonmacias1999@gmail.com/@JhonZambranoM
+* Jhon Zambrano jhonmacias1999@gmail.com/ @JhonZambranoM
 * Odalys Duque
 
 ## Notas Finales
