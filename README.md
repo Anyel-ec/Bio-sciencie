@@ -28,7 +28,7 @@ El proyecto se ha desarrollado utilizando una variedad de tecnologías y framewo
 1. Clona el repositorio en tu máquina local:
 
    ```
-   git clone https://github.com/Anyel-ec/ESPE-LAB-v2.git
+   git clone https://github.com/Anyel-ec/Bio-sciencie.git
    ```
 
 2. Asegúrate de estar en la rama "master" del repositorio.
