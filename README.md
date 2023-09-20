@@ -38,8 +38,10 @@ El proyecto se ha desarrollado utilizando una variedad de tecnologías y framewo
 Si estás interesado en contribuir al proyecto, eres bienvenido(a) a realizar pull requests con tus mejoras, correcciones o nuevas características. ¡Juntos haremos que esta aplicación sea aún mejor!
 
 ## Autores
+
+* Angel Patiño appatino@espe.edu.ec / @Anyel-ec
+* Jhon Zambrano jhonmacias1999@gmail.com/@JhonZambranoM
 * Odalys Duque
-* Angel Patiño
 
 ## Notas Finales
 
